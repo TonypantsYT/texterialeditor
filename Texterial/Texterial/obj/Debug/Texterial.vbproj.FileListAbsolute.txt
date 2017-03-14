@@ -1,0 +1,12 @@
+C:\Users\Geraldine\Desktop\Texterial\Texterial\bin\Debug\Texterial.exe.config
+C:\Users\Geraldine\Desktop\Texterial\Texterial\bin\Debug\Texterial.exe
+C:\Users\Geraldine\Desktop\Texterial\Texterial\bin\Debug\Texterial.pdb
+C:\Users\Geraldine\Desktop\Texterial\Texterial\bin\Debug\Texterial.xml
+C:\Users\Geraldine\Desktop\Texterial\Texterial\bin\Debug\MaterialSkin.dll
+C:\Users\Geraldine\Desktop\Texterial\Texterial\obj\Debug\Texterial.vbprojResolveAssemblyReference.cache
+C:\Users\Geraldine\Desktop\Texterial\Texterial\obj\Debug\Texterial.Form1.resources
+C:\Users\Geraldine\Desktop\Texterial\Texterial\obj\Debug\Texterial.Resources.resources
+C:\Users\Geraldine\Desktop\Texterial\Texterial\obj\Debug\Texterial.vbproj.GenerateResource.Cache
+C:\Users\Geraldine\Desktop\Texterial\Texterial\obj\Debug\Texterial.exe
+C:\Users\Geraldine\Desktop\Texterial\Texterial\obj\Debug\Texterial.xml
+C:\Users\Geraldine\Desktop\Texterial\Texterial\obj\Debug\Texterial.pdb
